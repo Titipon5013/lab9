@@ -47,6 +47,7 @@
   ![image](https://github.com/user-attachments/assets/36130ebb-f25d-4a77-98df-7d5b62251d45)
 
   - docker run -p 3000:3000 timetitipon/nuxt-movies:1.0
+  - docker build -t timetitipon/nuxt-movie:1.0 .
 
   ![image](https://github.com/user-attachments/assets/743746f1-9d2a-4a5a-b920-c4b73a8203b8)
 
