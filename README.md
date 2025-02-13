@@ -36,6 +36,8 @@
 
   ![image](https://github.com/user-attachments/assets/f2dae10b-d3c1-4ce4-8528-f886f09d40c0)
 
+  - docker run -p 3000:3000 timetitipon/nuxt-app
+
 - 2.9
 
   ![image](https://github.com/user-attachments/assets/33dd082f-b24f-4dbf-bb62-ff0c6ea889cd)
